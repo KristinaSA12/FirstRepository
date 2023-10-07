@@ -1,4 +1,4 @@
 Hello world
-another line from user2
+line from user2
 Good bye, world!
 line from user1
