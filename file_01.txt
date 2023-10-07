@@ -2,3 +2,4 @@ Hello world
 line from user2
 Good bye, world!
 line from user1
+some new feature
